@@ -1,1 +1,1 @@
-## ElectronJunkie Changelog (2026-10-15)
+## ElectronJunkie Changelog (2026-11-01)
